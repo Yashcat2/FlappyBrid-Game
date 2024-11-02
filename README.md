@@ -12,5 +12,5 @@ Welcome to my Flappy Bird game created using Java! This project is a fun impleme
    ```bash
    git clone https://github.com/Yashcat2/Fappy-bird.git
 
-![Game Screenshot](images/flappybird.png)
+![Game Screenshot](images/flappybird.png)<br>
 ![Game Screenshot](images/gameOver.png)
